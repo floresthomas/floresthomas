@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I'm a full stack developer. I consider myself a person passionate about software development, eager to learn and with great ability to work in a team. <br>I’m currently learning NextJs 12 and 13, FireBase and Typescript<br>
+I'm a full stack developer. I consider myself a person passionate about software development, eager to learn and with great ability to work in a team. <br>I’m currently learning Firebase, Typescript and Nextjs<br>
 
 
 ## 🌐 Socials:
