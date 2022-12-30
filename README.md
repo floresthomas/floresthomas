@@ -9,7 +9,7 @@ I'm a full stack developer. I consider myself a person passionate about software
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/floresthomas) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezequielf_14) 
+
 
 
 # 💻 Tech Stack:
