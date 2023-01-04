@@ -8,8 +8,8 @@ Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarro
 
 Actualmente estoy aprendiendo Nextjs 12 y 13, Firebase y Typescript
 
-Si deseas contactarte conmigo, podes hacerlo por LinkedIn o por mail.
-✉ thomyeze57@gmail.com
+Si quieres ver algunos de mis trabajos visita mi portfolio: https://floresthomas-portfolio.vercel.app/
+✉ Email: thomyeze57@gmail.com
 
 
 ## 🌐 Socials:
