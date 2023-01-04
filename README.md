@@ -1,10 +1,10 @@
-### Hi, I'm Thomas 👋
+### Hola a todos! Soy Thomas Flores👋
 
 ![programming](https://user-images.githubusercontent.com/93939021/201541792-7820da7b-d747-4499-8ecb-e3fb84c8f665.jpg)
 
 
 # 💫 About Me:
-I'm a full stack developer. I consider myself a person passionate about software development, eager to learn and with great ability to work in a team. <br>I’m currently learning Firebase, Typescript and Nextjs<br>
+Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarrollo de software, con ganas de aprender y con gran capacidad trabajando en equipo. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.<br>
 Si deseas contactarte conmigo, podes hacerlo por LinkedIn o por mail.
 ✉ thomyeze57@gmail.com
 
