@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarrollo de software, con ganas de aprender y con gran capacidad trabajando en equipo. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.<br>
+
 Actualmente estoy aprendiendo Nextjs 12 y 13, Firebase y Typescript
 
 Si deseas contactarte conmigo, podes hacerlo por LinkedIn o por mail.
