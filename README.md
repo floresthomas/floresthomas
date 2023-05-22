@@ -6,7 +6,7 @@
 # 💫 About Me:
 Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarrollo de software, con ganas de aprender y con gran capacidad trabajando en equipo. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.<br>
 
-Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app//<br>
+Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
 ✉ Email: thomyeze57@gmail.com
 
 
