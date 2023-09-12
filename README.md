@@ -4,7 +4,9 @@
 
 
 # 💫 About Me:
-Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarrollo de software, con ganas de aprender y con gran capacidad trabajando en equipo. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.<br>
+¡Hola! Soy Thomas Ezequiel Flores, tengo 20 años y soy full stack developer MERN.
+
+Soy una persona autodidacta y muy creativa. Siempre estoy en busca de aprender y superarme día a día. Disfruto mucho trabajando en proyectos para ofrecer la mejor experiencia a los usuarios.
 
 Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
 ✉ Email: thomyeze57@gmail.com
