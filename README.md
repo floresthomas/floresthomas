@@ -9,7 +9,6 @@
 Como Desarrollador Full-Stack, transformo ideas en código. Soy capaz de enfrentar cualquier obstáculo, desafío o problema. Ser una persona enfocada y disciplinada me convierte en una elección sabia. Utilizando todas las tecnologías que conozco, puedo crear sitios web atractivos, interactivos, útiles y profesionales.
 
 Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
-✉ Email: thomyeze57@gmail.com
 
 
 ## Technologies 🛠️
