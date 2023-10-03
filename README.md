@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-¡Hola! Soy Thomas Ezequiel Flores, tengo 20 años y soy full stack developer MERN.
+¡Hola! Soy Thomas Ezequiel Flores y soy full stack developer MERN.
 
 Soy una persona autodidacta y muy creativa. Siempre estoy en busca de aprender y superarme día a día. Disfruto mucho trabajando en proyectos para ofrecer la mejor experiencia a los usuarios.
 
