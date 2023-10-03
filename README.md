@@ -4,7 +4,7 @@
 
 
 # 💫 Sobre mi:
-¡Hola! Soy Thomas Ezequiel Flores y soy full stack developer MERN.
+¡Hola! Soy Thomas Ezequiel Flores y soy desarrollador full stack MERN.
 
 Como Desarrollador Full-Stack, transformo ideas en código. Soy capaz de enfrentar cualquier obstáculo, desafío o problema. Ser una persona enfocada y disciplinada me convierte en una elección sabia. Utilizando todas las tecnologías que conozco, puedo crear sitios web atractivos, interactivos, útiles y profesionales.
 
