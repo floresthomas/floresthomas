@@ -18,10 +18,10 @@ Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfoli
 
 
 ## Technologies 🛠️
-Lenguajes de programación: Javascript/Typescript, HTML, CSS
-Front-end: React, Next
-Back-end: Node, Express
-Databases: SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
+- Lenguajes de programación: Javascript/Typescript, HTML, CSS
+- Front-end: React, Next
+- Back-end: Node, Express
+  Databases: SQL, NoSQL (MongoDB, MySQL, PostgreSQL)
 
 ---
 
