@@ -18,9 +18,8 @@ Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfoli
 - Databases: SQL, NoSQL (MongoDB, MySQL, PostgreSQL)
 - Tools: Axios, Redux, Tailwind CSS, JWT, Cookies, etc.
 
-Contact 📬
-Connect with me on [LinkedIn](https://www.linkedin.com/in/floresthomas/) or by email at thomyeze57@gmail.com
-
+## Contact 📬
+Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/floresthomas/) o a través del correo electrónico en thomyeze57@gmail.com.
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
