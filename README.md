@@ -12,16 +12,14 @@ Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfoli
 ✉ Email: thomyeze57@gmail.com
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/floresthomas) 
-
-
-
 ## Technologies 🛠️
 - Lenguajes de programación: Javascript/Typescript, HTML, CSS
 - Front-end: React, Next
 - Back-end: Node, Express
   Databases: SQL, NoSQL (MongoDB, MySQL, PostgreSQL)
+
+Contact 📬
+Connect with me on [LinkedIn](https://www.linkedin.com/in/floresthomas/) or by email at thomyeze57@gmail.com
 
 ---
 
