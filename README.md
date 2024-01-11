@@ -4,22 +4,21 @@
 
 
 # 💫 Sobre mi:
-¡Hola! Soy Thomas Ezequiel Flores y soy desarrollador full stack MERN.
+¡Hola! Soy Thomas Ezequiel Flores y soy desarrollador backend.
 
-Como Desarrollador Full-Stack, transformo ideas en código. Soy capaz de enfrentar cualquier obstáculo, desafío o problema. Ser una persona enfocada y disciplinada me convierte en una elección sabia. Utilizando todas las tecnologías que conozco, puedo crear sitios web atractivos, interactivos, útiles y profesionales.
-
-Si quieres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
+Me considero una persona altamente responsable, atento a los detalles, capaz de enfrentar cualquier problema o desafío, con gran capacidad de adaptación y aprendizaje. 
 
 
-## Tecnologías 🛠️
-- Lenguajes de programación: Javascript/Typescript, HTML, CSS
-- Front-end: React, Next
-- Back-end: Node, Express
-- Bases de datos: SQL, NoSQL (MongoDB, MySQL, PostgreSQL)
-- Herramientas: Axios, Redux, Tailwind CSS, JWT, Cookies, etc.
+Si queres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
+
+
+## Habilidades Moderadas
+- Java, Javascript & Typescript
+- Spring Boot
+- Hibernate
+- React.js & Next.js
+- Node.js & Express.js
+- Bases de datos - MongoDB, PostgreSQL, MySQL
 
 ## Contacto 📬
-Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/floresthomas/) o a través del correo electrónico en thomyeze57@gmail.com.
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/floresthomas/) o a través de mi correo electrónico thomyeze57@gmail.com.
