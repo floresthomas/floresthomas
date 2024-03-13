@@ -43,3 +43,17 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thomasflores0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpuMnR3Y3lxOTRhcmdmaTRpY3JhM3p2aHF5MXA4aXI4NnZkemlkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+</div>
+
+###
