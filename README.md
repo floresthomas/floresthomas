@@ -1,24 +1,45 @@
-##                                                       Hola a todos! Soy Thomas Ezequiel Flores👋
+<h1 align="left">👋 I'm Thomas, a Backend Developer with a passion for AI  and Web Development .</h1>
 
-![programming](https://user-images.githubusercontent.com/93939021/201541792-7820da7b-d747-4499-8ecb-e3fb84c8f665.jpg)
+###
 
+<h2 align="left">About me</h2>
 
-# 💫 Sobre mi:
-¡Hola! Soy Thomas Ezequiel Flores y soy desarrollador backend.
+###
 
-Me considero una persona altamente responsable, atento a los detalles, capaz de enfrentar cualquier problema o desafío, con gran capacidad de adaptación y aprendizaje. 
+<p align="left">- 🔭 I'm working as a Backend Developer, delving into the intricacies of server-side systems and data management. <br>- 📚 I'm currently learning advanced concepts in Artificial Intelligence and exploring new web technologies to enhance my skill set.<br>- ⚡ In my free time, I enjoy coding personal projects, diving into the latest tech trends, and contributing to open-source communities.</p>
 
+###
 
-Si queres ver algunos de mis trabajos visita mi portfolio: https://new-portfolio-git-main-floresthomas.vercel.app/<br>
+<h2 align="left">I code with</h2>
 
+###
 
-## Habilidades Moderadas
-- Java, Javascript & Typescript
-- Spring Boot
-- Hibernate
-- React.js & Next.js
-- Node.js & Express.js
-- Bases de datos - MongoDB, PostgreSQL, MySQL
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-## Contacto 📬
-Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/floresthomas/) o a través de mi correo electrónico thomyeze57@gmail.com.
+###
