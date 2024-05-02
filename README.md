@@ -1,4 +1,4 @@
-<h1 align="left">👋 I'm Thomas, a Backend Developer with a passion for AI  and Web Development .</h1>
+<h1 align="left">👋 Soy Thomas, un desarrollador backend apasionado por el desarrollo web. .</h1>
 
 ###
 
@@ -6,11 +6,12 @@
 
 ###
 
-<p align="left">- 🔭 I'm working as a Backend Developer, delving into the intricacies of server-side systems and data management. <br>- 📚 I'm currently learning advanced concepts in Artificial Intelligence and exploring new web technologies to enhance my skill set.<br>- ⚡ In my free time, I enjoy coding personal projects, diving into the latest tech trends, and contributing to open-source communities.</p>
+<p align="left">- 🔭 Trabajo como desarrollador backend, profundizando en las complejidades de los sistemas del lado del servidor y la gestión de datos. <br>- 📚 Actualmente estoy aprendiendo conceptos avanzados en Inteligencia Artificial y explorando nuevas tecnologías web para mejorar mis habilidades.<br>- ⚡ En mi tiempo libre, disfruto codificar proyectos personales, sumergirme en las últimas tendencias tecnológicas y contribuyendo a las comunidades de código abierto
+.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Utilizo</h2>
 
 ###
 
