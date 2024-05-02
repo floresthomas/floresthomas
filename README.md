@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 Trabajo como desarrollador backend, profundizando en las complejidades de los sistemas del lado del servidor y la gestión de datos. <br>- 📚 Actualmente estoy aprendiendo conceptos avanzados en Inteligencia Artificial y explorando nuevas tecnologías web para mejorar mis habilidades.<br>- ⚡ En mi tiempo libre, disfruto codificar proyectos personales, sumergirme en las últimas tendencias tecnológicas y contribuyendo a las comunidades de código abierto
+<p align="left">- 🔭 Trabajo como desarrollador backend, profundizando en las complejidades de los sistemas del lado del servidor y la gestión de datos. <br>- 📚 Actualmente estoy aprendiendo conceptos avanzados y explorando nuevas tecnologías web para mejorar mis habilidades.<br>- ⚡ En mi tiempo libre, disfruto codificar proyectos personales, sumergirme en las últimas tendencias tecnológicas y contribuyendo a las comunidades de código abierto
 .</p>
 
 ###
