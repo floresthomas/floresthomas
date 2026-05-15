@@ -1,57 +1,45 @@
-<h1 align="left">👋 Soy Thomas, un desarrollador backend apasionado por el desarrollo web.</h1>
+# Hi, I'm Thomas 👋
 
-###
+### Backend Developer · .NET · C#
 
-<h2 align="left">Sobre mí</h2>
+🏦 2+ years building production APIs and batch processes in banking (Banco Nación).  
+🚀 Currently building production-grade .NET 8 projects with focus on testing, CI/CD and cloud (Azure).  
+🌎 Based in Buenos Aires, Argentina · Open to remote roles in LATAM, Spain and Europe.
 
-###
+---
 
-<p align="left">- 🔭 Trabajo como desarrollador backend, profundizando en las complejidades de los sistemas del lado del servidor y la gestión de datos.<br>- 📚 Actualmente estoy aprendiendo conceptos avanzados y explorando nuevas tecnologías web para mejorar mis habilidades.<br>- ⚡ En mi tiempo libre, disfruto codificar proyectos personales, sumergirme en las últimas tendencias tecnológicas y contribuyendo a las comunidades de código abierto.</p>
+### 🛠️ Tech Stack
 
-###
+**Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<h2 align="left">Programo con</h2>
+**Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-###
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+**Architecture & Practices**  
+`DDD` · `Clean Architecture` · `SOLID` · `REST APIs` · `JWT / OAuth 2.0`
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thomasflores0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### 🚧 Currently Working On
 
-###
+- 🔨 **[production-api-dotnet](https://github.com/floresthomas/production-api-dotnet)** — Production-grade REST API with automated tests, CI/CD pipeline and Azure deployment.
+- 📚 Deepening test automation with xUnit, Moq, WebApplicationFactory and TestContainers.
+- 🌐 Improving English to B2+ for international remote roles.
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpuMnR3Y3lxOTRhcmdmaTRpY3JhM3p2aHF5MXA4aXI4NnZkemlkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
+---
 
-###
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasflores0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomyeze57@gmail.com)
