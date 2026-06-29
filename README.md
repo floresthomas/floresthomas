@@ -32,7 +32,6 @@
 
 ### 🚧 Currently Working On
 
-- 🔨 **[production-api-dotnet](https://github.com/floresthomas/production-api-dotnet)** — Production-grade REST API with automated tests, CI/CD pipeline and Azure deployment.
 - 📚 Deepening test automation with xUnit, Moq, WebApplicationFactory and TestContainers.
 - 🌐 Improving English to B2+ for international remote roles.
 
